@@ -2,7 +2,7 @@ BruinWats is a dietary tracker Android application that allows users to track th
 
 Check howtorun.txt on how to run app.
 
-Demo Run of the Application
+Demo Run of the Application (Click for youtube video)
 
 
 [![Demo](https://img.youtube.com/vi/dRvKhcs8IdM/0.jpg)](https://www.youtube.com/watch?v=dRvKhcs8IdM)
