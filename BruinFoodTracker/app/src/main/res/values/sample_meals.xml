@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mp1_name">031418_0742</string>
+    <string name="mp1_contents">Bruin_Plate|0742|Oatmeal|265|43|4.7|0.9|0|0|0|51|7.6|0|11.3|0|0|4|19|1|Scrambled_Egg,_Potato_&amp;_Swiss_Chard_Taco|197|72|7.9|1.7|0|133.7|367.2|20.1|2.3|1.3|10.4|10|17|9|10|1|Red_Potato_Hash|65|12|1.3|0.2|0|0|88.7|12.1|1.2|1.4|1.4|0|13|1|2|2|Grapefruit|38|1|0.1|0|0|0|0|9.8|1.5|6.3|0.7|21|48|2|0|1|</string>
+    <string name="mp2_name">031418_1311</string>
+    <string name="mp2_contents">Covel|1311|Macaroni_Noodles|45|2|0.3|0.1|0|0|142|8.7|0.5|0.2|1.6|0|0|0|2|1|Chicken_Gyro|483|271|30|11.9|0|58.9|998.1|33.1|1|1.6|18|0|0|7|17|1|Cheese_Pizza|203|81|9|2.7|0|11.2|249.9|24.5|1.2|0.8|8.1|3|2|8|9|2|Caesar_Salad|149|102|11.3|2.8|0|10.5|276.9|8.3|1.2|0.9|4.1|54|4|10|4|1|Spanakopita_Grilled_Cheese|140|48|5.3|2.1|0|10.8|320.2|19.9|5.1|1.5|8.7|103|12|26|16|1|</string>
+    <string name="mp3_name">031418_2007</string>
+    <string name="mp3_contents">FEAST|2007|Dim_Sum_Style_Rice_Noodle_w/_Shrimp|233|50|5.5|0.4|0|56.8|734.3|33.7|1.5|1.6|12.9|1|1|4|15|1|Fried_Wonton|170|13|1.4|0.2|0|5.1|324.3|32.8|1|0|5.6|0|0|3|11|1|Japanese_Coffee_Jello|52|10|1.1|0.7|0|3|14.7|10.9|0|10.3|0.3|1|0|1|1|2|Orange_Castella_Cake|137|51|5.6|0.7|0|56.7|117.7|17.7|0.2|9.5|2.5|2|0|1|5|1|</string>
+</resources>

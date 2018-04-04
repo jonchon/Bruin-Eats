@@ -1,0 +1,315 @@
+<resources>
+    <string name="app_name">Bruin Food Tracker</string>\
+    <string name="main_file_directory">/data/user/0/macros.bruin.bruinfoodtrackerbeta2/files</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Default</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_deleteall">Delete All</string>
+
+
+    <string name="title_activity_test_history">TestHistoryActivity</string>
+    <string name="tab_text_1">Past Week</string>
+    <string name="tab_text_2">Past Month</string>
+    <string name="tab_text_3">Max</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+
+
+    <string-array name="macros">
+        <item>56g</item>
+        <item>13g</item>
+        <item>76g</item>
+        <item>42g</item>
+        <item>18g</item>
+        <item>83g</item>
+        <item>2g</item>
+        <item>10g</item>
+        <item>15g</item>
+        <item>61g</item>
+        <item>24g</item>
+        <item>78g</item>
+        <item>1g</item>
+        <item>0g</item>
+        <item>27g</item>
+    </string-array>
+
+    <!-- <string-array name="macros_0">
+        <item>56g</item>
+        <item>13g</item>
+        <item>76g</item>
+    </string-array>
+
+    <string-array name="macros_1">
+        <item>42g</item>
+        <item>18g</item>
+        <item>83g</item>
+    </string-array>
+
+    <string-array name="macros_3">
+        <item>2g</item>
+        <item>10g</item>
+        <item>15g</item>
+    </string-array>
+
+    <string-array name="macros_4">
+        <item>61g</item>
+        <item>24g</item>
+        <item>78g</item>
+    </string-array>
+
+    <string-array name="macros_5">
+        <item>1g</item>
+        <item>0g</item>
+        <item>27g</item>
+    </string-array>
+    -->
+
+    <string-array name="TheStudyMenu">
+        <item>Iced Brewed Coffee</item>
+        <item>Nitro Cold Coffee</item>
+        <item>Chocolate Domes w/ Salted Caramel</item>
+        <item>French Lemon Meringue Tart</item>
+        <item>French Vanilla Custard Eclair</item>
+        <item>Milk Chocolate Cream Tart</item>
+        <item>Norwegian Cream Cake w/ Meringue &amp; Almonds</item>
+        <item>Raspberry Cheesecake</item>
+        <item>Chocolate Raspberry Macaron</item>
+        <item>Maccherones Italiani</item>
+        <item>Oatmeal Raisin Cookie</item>
+        <item>Salted Caramel Crunch Cookie</item>
+        <item>Speculaas Sandwich Cookie</item>
+        <item>Vegan Brownie</item>
+        <item>Assorted Bagels</item>
+        <item>Banana Walnut Muffin</item>
+        <item>Blackberry Fan</item>
+        <item>Blueberry Muffin</item>
+        <item>Butter Croissant</item>
+        <item>Chocolate Chip Scone</item>
+        <item>Chocolate Hazelnut  Croissant</item>
+        <item>Raspberry Scone</item>
+        <item>Triple Chocolate Mousse Verrine</item>
+        <item>Bagel &amp; Croissant Bar</item>
+        <item>Croque Madame</item>
+        <item>Croque Monsieur</item>
+        <item>Chocolate-Hazelnut &amp; Seasonal Fresh Fruit Crepe</item>
+        <item>Sausage, Mushroom, &amp; Gouda Crepe</item>
+        <item>Spinach, Eggplant &amp; Goat Cheese Crepe w/ Red Pepper Coulis</item>
+        <item>Chocolate Ganache &amp; Candied Orange Belgian Waffle</item>
+        <item>Chocolate-Hazelnut &amp; Seasonal Fresh Fruit Belgian Waffle</item>
+        <item>Whipped Cream &amp; Seasonal Fresh Fruit Belgian Waffle</item>
+        <item>Banana</item>
+        <item>Fuji Apple</item>
+        <item>Orange</item>
+        <item>Boulder Canyon Malt Vinegar Kettle Chips</item>
+        <item>Bagel &amp; Croissant Bar</item>
+        <item>Classic Cheese Pizza</item>
+        <item>Craft-Your-Own Pizza</item>
+        <item>Egg &amp; Bacon Pizza</item>
+        <item>Smoked Brisket Pizza</item>
+        <item>Smoked Salmon Pizza</item>
+        <item>Croque Madame</item>
+        <item>Croque Monsieur</item>
+        <item>Chocolate-Hazelnut &amp; Seasonal Fresh Fruit Crepe</item>
+        <item>Sausage, Mushroom, &amp; Gouda Crepe</item>
+        <item>Spinach, Eggplant &amp; Goat Cheese Crepe w/ Red Pepper Coulis</item>
+        <item>Chocolate Ganache &amp; Candied Orange Belgian Waffle</item>
+        <item>Chocolate-Hazelnut &amp; Seasonal Fresh Fruit Belgian Waffle</item>
+        <item>Whipped Cream &amp; Seasonal Fresh Fruit Belgian Waffle</item>
+        <item>Boulder Canyon Malt Vinegar Kettle Chips</item>
+        <item>Banana</item>
+        <item>Fuji Apple</item>
+        <item>Orange</item>
+        <item>Craft-Your-Own Sandwich</item>
+        <item>Classic Cheese Pizza</item>
+        <item>Craft-Your-Own Pizza</item>
+        <item>Egg &amp; Bacon Pizza</item>
+        <item>Smoked Brisket Pizza</item>
+        <item>Smoked Salmon Pizza</item>
+        <item>Croque Madame</item>
+        <item>Croque Monsieur</item>
+        <item>Chocolate-Hazelnut &amp; Seasonal Fresh Fruit Crepe</item>
+        <item>Sausage, Mushroom, &amp; Gouda Crepe</item>
+        <item>Spinach, Eggplant &amp; Goat Cheese Crepe w/ Red Pepper Coulis</item>
+        <item>Chocolate Ganache &amp; Candied Orange Belgian Waffle</item>
+        <item>Chocolate-Hazelnut &amp; Seasonal Fresh Fruit Belgian Waffle</item>
+        <item>Whipped Cream &amp; Seasonal Fresh Fruit Belgian Waffle</item>
+        <item>Butternut Squash Soup</item>
+        <item>Chicken Noodle Soup</item>
+        <item>Boulder Canyon Malt Vinegar Kettle Chips</item>
+        <item>Banana</item>
+        <item>Fuji Apple</item>
+        <item>Orange</item>
+        <item>Odwalla Blueberry B Superfood Juice</item>
+        <item>Odwalla Mango Tango Juice</item>
+        <item>Odwalla Strawberry C Monster Juice</item>
+        <item>Odwalla SuperFood Juice</item>
+        <item>Multivitamin Boost</item>
+        <item>Soy Boost</item>
+        <item>Vitamin C Immune Boost</item>
+        <item>Whey Protein Boost</item>
+        <item>Original Kombucha</item>
+        <item>Pink Lady Apple Kombucha</item>
+        <item>Bircher Muesli w/ Nuts</item>
+        <item>Blueberry Strudel Parfait</item>
+        <item>Cheese &amp; Cracker Protein Box</item>
+        <item>Crudite Plate</item>
+        <item>Fresh Fruit Cup</item>
+        <item>Spiced Apple Caramel Parfait</item>
+        <item>Nutella</item>
+        <item>Pork Belly Rillettes</item>
+        <item>Smoked Salmon Mousse</item>
+        <item>Walnut Mushroom Pate</item>
+        <item>Chicken Tarragon Salad</item>
+        <item>Louie Shrimp &amp; Avocado Salad</item>
+        <item>Norwegian Cucumber &amp; Dill Salad w/ Salmon</item>
+        <item>Seared Tuna Salad</item>
+        <item>Banana</item>
+        <item>Fuji Apple</item>
+        <item>Orange</item>
+        <item>Boulder Canyon Malt Vinegar Kettle Chips</item>
+        <item>Dove M&amp;M Ice Cream</item>
+        <item>Dove Milky Way Ice Cream</item>
+        <item>Dove Mint Chocolate Chip Ice Cream</item>
+        <item>Dove Snickers Ice Cream</item>
+        <item>Dove TWIX Ice Cream</item>
+        <item>Dove Unconditional Chocolate Ice Cream</item>
+
+
+    </string-array>
+    <string name="title_activity_menu_list">MenuListActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+
+    <string-array name="Weekday">
+        <item>BREAKFAST</item>
+        <item>B-Plate</item>
+        <item>De Neve</item>
+        <item>B-Cafe</item>
+        <item>Rendezvous</item>
+        <item>Grab 'n' Go</item>
+        <item>The Study</item>
+
+        <item>LUNCH</item>
+        <item>B-Plate</item>
+        <item>Covel</item>
+        <item>De Neve</item>
+        <item>Feast</item>
+        <item>B-Cafe</item>
+        <item>Cafe 1919</item>
+        <item>Rendezvous</item>
+        <item>Grab 'n' Go</item>
+        <item>The Study</item>
+
+        <item>DINNER</item>
+        <item>B-Plate</item>
+        <item>Covel</item>
+        <item>De Neve</item>
+        <item>Feast</item>
+        <item>B-Cafe</item>
+        <item>Cafe 1919</item>
+        <item>Rendezvous</item>
+        <item>The Study</item>
+
+        <item>LATE NIGHT</item>
+        <item>De Neve</item>
+        <item>B-Cafe</item>
+        <item>Cafe 1919</item>
+        <item>Rendezvous</item>
+        <item>The Study</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,5 @@
+How to run BruinWats:
+
+1. Load BruinWats.apk file onto any Android Device running ICS(4.0) or higher version of android.
+2. Natively open file from Android Device.
+3. Follow prompts to install application.

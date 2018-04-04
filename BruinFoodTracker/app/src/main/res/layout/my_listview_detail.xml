@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/menuNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="9dp"
+        android:text="Restaurant"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/proteinTextViewLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/menuNameTextView"
+        android:layout_alignStart="@+id/menuNameTextView"
+        android:layout_below="@+id/menuNameTextView"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:text="Protein"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/timeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/fatTextViewLabel"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="13dp"
+        android:layout_marginRight="13dp"
+        android:text="12:00AM"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/fatTextViewLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/menuNameTextView"
+        android:layout_centerHorizontal="true"
+        android:text="Fat"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/carbsTextViewLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/timeTextView"
+        android:layout_alignRight="@+id/timeTextView"
+        android:layout_below="@+id/timeTextView"
+        android:layout_marginEnd="13dp"
+        android:layout_marginRight="13dp"
+        android:text="Carbs"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/proteinTextView"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/proteinTextViewLabel"
+        android:layout_below="@+id/proteinTextViewLabel"
+        android:text="56g"
+        android:textAlignment="viewStart"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/fatTextView"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fatTextViewLabel"
+        android:layout_centerHorizontal="true"
+        android:text="13g"
+        android:textAlignment="center"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/carbsTextView"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/carbsTextViewLabel"
+        android:layout_below="@+id/carbsTextViewLabel"
+        android:text="76g"
+        android:textAlignment="textEnd"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fatTextView"
+        android:layout_centerHorizontal="true"
+        android:textSize="6sp" />
+
+</RelativeLayout>
