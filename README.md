@@ -2,7 +2,9 @@ BruinWats is a dietary tracker Android application that allows users to track th
 
 Check howtorun.txt on how to run app.
 
-Demo Run of the Application:
+Demo Run of the Application
+
+
 [![Demo](https://img.youtube.com/vi/dRvKhcs8IdM/0.jpg)](https://www.youtube.com/watch?v=dRvKhcs8IdM)
 
 
@@ -23,7 +25,7 @@ Adding New Food Item:
 Displaying Menus:
 -Each menu is stored in CSV files given by backend code
 -A function named readMacros() parses through CSV files and then stores data into FoodItem object
--Each FoodItem object’s name is then listed out 
+-Each FoodItem objectâ€™s name is then listed out 
 
 BACKEND DESIGN
 
