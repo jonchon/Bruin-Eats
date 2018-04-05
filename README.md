@@ -1,3 +1,5 @@
+# BruinWats
+
 BruinWats is a dietary tracker Android application that allows users to track their dietary nutritional intake specifically from the UCLA dining facilities that are present on The Hill and record them to allow users to eat healthier and succeed in their fitness and health goals.
 
 Check howtorun.txt on how to run app.
@@ -8,7 +10,15 @@ Demo Run of the Application (Click for youtube video)
 [![Demo](https://img.youtube.com/vi/dRvKhcs8IdM/0.jpg)](https://www.youtube.com/watch?v=dRvKhcs8IdM)
 
 
-FRONTEND DESIGN
+# Backend Design
+
+CSV Files for Frontend display:
+-Python Scripts parseDH.py and parseTakeout.py
+-Automated the process of crawling HTML of all dining halls and takeout restaurant menus
+ -Recognized patterns in the HTML to isolate the nutritional data and extract into CSV files
+ -parseDH.py implemented to run everyday using batch file to run every 86400 seconds to fetch dail data
+
+# Frontend Design
 
 Dashboard:
 -Displays all the previous food items added during the day
@@ -27,10 +37,4 @@ Displaying Menus:
 -A function named readMacros() parses through CSV files and then stores data into FoodItem object
 -Each FoodItem object’s name is then listed out 
 
-BACKEND DESIGN
 
-CSV Files for Frontend display:
--Python Scripts parseDH.py and parseTakeout.py
--Automated the process of crawling through HTML of all dining halls and takeout restaurant menus
- -Recognized patterns in the HTML to isolate the nutritional data and extract into CSV files
- -parseDH.py implemented to run everyday using batch file to run every 86400 seconds to fetch dail data
