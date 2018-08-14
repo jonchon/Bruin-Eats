@@ -1,6 +1,6 @@
-# BruinEats
+# Bruin Eats
 
-BruinEats is a dietary tracker Android application that allows users to track their dietary nutritional intake specifically from the UCLA dining facilities that are present on The Hill and record them to allow users to eat healthier and succeed in their fitness and health goals.
+Bruin Eats is a dietary tracker Android application that allows users to track their dietary nutritional intake specifically from the UCLA dining facilities that are present on The Hill and record them to allow users to eat healthier and succeed in their fitness and health goals.
 
 Check howtorun.txt on how to run app.
 
